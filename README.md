@@ -1,2 +1,1 @@
-# slb.dev
-personal website
+[slb.dev](https://slb.dev/)
